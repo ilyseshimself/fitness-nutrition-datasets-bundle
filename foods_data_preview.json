@@ -1,0 +1,404 @@
+{
+  "almond butter": {
+    "name": {
+      "en": "almond butter",
+      "ar": "زبدة اللوز",
+      "fr": "beurre d'amande"
+    },
+    "category": {
+      "en": "nut butter",
+      "ar": "زبدة المكسرات",
+      "fr": "beurre de noix"
+    },
+    "caloriesPer100g": 614,
+    "macrosPer100g": {
+      "carbs": 19.6,
+      "fats": 55.5,
+      "protein": 21.2
+    },
+    "micros": {
+      "vitamin_a_mcg": 1,
+      "vitamin_c_mg": 0,
+      "vitamin_e_mg": 24.2,
+      "vitamin_k_mcg": 0,
+      "vitamin_b6_mg": 0.2,
+      "vitamin_b12_mcg": 0,
+      "folate_mcg": 44,
+      "calcium_mg": 347,
+      "iron_mg": 4.6,
+      "magnesium_mg": 279,
+      "zinc_mg": 3.3,
+      "potassium_mg": 748,
+      "sodium_mg": 0
+    },
+    "defaultAmount": 100,
+    "unit": {
+      "en": "grams",
+      "ar": "غرام",
+      "fr": "grammes"
+    },
+    "units": [
+      {
+        "unit": {
+          "en": "grams",
+          "ar": "غرام",
+          "fr": "grammes"
+        },
+        "gramEquivalent": 1
+      },
+      {
+        "unit": {
+          "en": "tbsp",
+          "ar": "ملعقة كبيرة",
+          "fr": "cuillère à soupe"
+        },
+        "gramEquivalent": 16
+      },
+      {
+        "unit": {
+          "en": "tsp",
+          "ar": "ملعقة صغيرة",
+          "fr": "cuillère à café"
+        },
+        "gramEquivalent": 5
+      }
+    ],
+    "tags": [
+      "keto",
+      "vegan",
+      "low-carb"
+    ],
+    "image": "",
+    "preparation": {
+      "method": "raw",
+      "description": {
+        "en": "Almond butter is typically consumed raw, made from roasted almonds.",
+        "ar": "عادة ما يتم تناول زبدة اللوز نيئة، مصنوعة من اللوز المحمص.",
+        "fr": "Le beurre d'amande est généralement consommé cru, fabriqué à partir d'amandes grillées."
+      }
+    }
+  },
+  "almond flour": {
+    "name": {
+      "en": "almond flour",
+      "ar": "دقيق اللوز",
+      "fr": "farine d'amande"
+    },
+    "category": {
+      "en": "flour",
+      "ar": "طحين",
+      "fr": "farine"
+    },
+    "caloriesPer100g": 600,
+    "macrosPer100g": {
+      "carbs": 10,
+      "fats": 54,
+      "protein": 20
+    },
+    "micros": {
+      "vitamin_a_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_e_mg": 24.6,
+      "vitamin_k_mcg": 0,
+      "vitamin_b6_mg": 0.14,
+      "vitamin_b12_mcg": 0,
+      "folate_mcg": 50,
+      "calcium_mg": 248,
+      "iron_mg": 3.72,
+      "magnesium_mg": 275,
+      "zinc_mg": 3.08,
+      "potassium_mg": 728,
+      "sodium_mg": 1
+    },
+    "defaultAmount": 100,
+    "unit": {
+      "en": "grams",
+      "ar": "غرام",
+      "fr": "grammes"
+    },
+    "units": [
+      {
+        "unit": {
+          "en": "grams",
+          "ar": "غرام",
+          "fr": "grammes"
+        },
+        "gramEquivalent": 1
+      },
+      {
+        "unit": {
+          "en": "cup",
+          "ar": "كوب",
+          "fr": "tasse"
+        },
+        "gramEquivalent": 96
+      },
+      {
+        "unit": {
+          "en": "tbsp",
+          "ar": "ملعقة كبيرة",
+          "fr": "cuillère à soupe"
+        },
+        "gramEquivalent": 6
+      },
+      {
+        "unit": {
+          "en": "tsp",
+          "ar": "ملعقة صغيرة",
+          "fr": "cuillère à café"
+        },
+        "gramEquivalent": 2
+      }
+    ],
+    "tags": [
+      "keto",
+      "vegan",
+      "low-carb"
+    ],
+    "image": "",
+    "preparation": {
+      "method": "raw",
+      "description": {
+        "en": "Almond flour is typically used raw in recipes for baking or cooking.",
+        "ar": "عادة ما يستخدم دقيق اللوز نيئًا في الوصفات للخبز أو الطهي.",
+        "fr": "La farine d'amande est généralement utilisée crue dans les recettes de pâtisserie ou de cuisine."
+      }
+    }
+  },
+  "almond milk": {
+    "name": {
+      "en": "almond milk",
+      "ar": "حليب اللوز",
+      "fr": "lait d'amande"
+    },
+    "category": {
+      "en": "Beverages",
+      "ar": "مشروبات",
+      "fr": "Boissons"
+    },
+    "caloriesPer100g": 17,
+    "macrosPer100g": {
+      "carbs": 0.6,
+      "fats": 1.1,
+      "protein": 0.5
+    },
+    "micros": {
+      "vitamin_a_mcg": 41,
+      "vitamin_c_mg": 0,
+      "vitamin_e_mg": 6.3,
+      "vitamin_k_mcg": 0,
+      "vitamin_b6_mg": 0,
+      "vitamin_b12_mcg": 0.5,
+      "folate_mcg": 2,
+      "calcium_mg": 188,
+      "iron_mg": 0.3,
+      "magnesium_mg": 7,
+      "zinc_mg": 0.1,
+      "potassium_mg": 67,
+      "sodium_mg": 63
+    },
+    "defaultAmount": 100,
+    "unit": {
+      "en": "milliliters",
+      "ar": "ملليلتر",
+      "fr": "millilitres"
+    },
+    "units": [
+      {
+        "unit": {
+          "en": "milliliters",
+          "ar": "ملليلتر",
+          "fr": "millilitres"
+        },
+        "gramEquivalent": 1
+      },
+      {
+        "unit": {
+          "en": "cup",
+          "ar": "كوب",
+          "fr": "tasse"
+        },
+        "gramEquivalent": 240
+      }
+    ],
+    "tags": [
+      "vegan",
+      "low-carb",
+      "dairy-free"
+    ],
+    "image": "",
+    "preparation": {
+      "method": "raw",
+      "description": {
+        "en": "Almond milk is typically consumed raw and can be used as a substitute for dairy milk.",
+        "ar": "عادة ما يتم استهلاك حليب اللوز نيئًا ويمكن استخدامه كبديل لحليب الألبان.",
+        "fr": "Le lait d'amande est généralement consommé cru et peut être utilisé comme substitut du lait de vache."
+      }
+    }
+  },
+  "almonds": {
+    "name": {
+      "en": "almonds",
+      "ar": "لوز",
+      "fr": "amandes"
+    },
+    "category": {
+      "en": "nuts",
+      "ar": "مكسرات",
+      "fr": "noix"
+    },
+    "caloriesPer100g": 579,
+    "macrosPer100g": {
+      "carbs": 21.6,
+      "fats": 49.9,
+      "protein": 21.2
+    },
+    "micros": {
+      "vitamin_a_mcg": 0,
+      "vitamin_c_mg": 0,
+      "vitamin_e_mg": 25.63,
+      "vitamin_k_mcg": 0,
+      "vitamin_b6_mg": 0.137,
+      "vitamin_b12_mcg": 0,
+      "folate_mcg": 44,
+      "calcium_mg": 269,
+      "iron_mg": 3.71,
+      "magnesium_mg": 270,
+      "zinc_mg": 3.12,
+      "potassium_mg": 733,
+      "sodium_mg": 1
+    },
+    "defaultAmount": 100,
+    "unit": {
+      "en": "grams",
+      "ar": "غرام",
+      "fr": "grammes"
+    },
+    "units": [
+      {
+        "unit": {
+          "en": "grams",
+          "ar": "غرام",
+          "fr": "grammes"
+        },
+        "gramEquivalent": 1
+      },
+      {
+        "unit": {
+          "en": "cup",
+          "ar": "كوب",
+          "fr": "tasse"
+        },
+        "gramEquivalent": 143
+      },
+      {
+        "unit": {
+          "en": "tbsp",
+          "ar": "ملعقة كبيرة",
+          "fr": "cuillère à soupe"
+        },
+        "gramEquivalent": 9
+      },
+      {
+        "unit": {
+          "en": "piece",
+          "ar": "قطعة",
+          "fr": "pièce"
+        },
+        "gramEquivalent": 1.2
+      }
+    ],
+    "tags": [
+      "keto",
+      "vegan",
+      "low-carb"
+    ],
+    "image": "",
+    "preparation": {
+      "method": "raw",
+      "description": {
+        "en": "Almonds are typically consumed raw or roasted.",
+        "ar": "عادة ما يتم تناول اللوز نيئًا أو محمصًا.",
+        "fr": "Les amandes sont généralement consommées crues ou grillées."
+      }
+    }
+  },
+  "apple": {
+    "name": {
+      "en": "apple",
+      "ar": "تفاح",
+      "fr": "pomme"
+    },
+    "category": {
+      "en": "fruit",
+      "ar": "فاكهة",
+      "fr": "fruit"
+    },
+    "caloriesPer100g": 52,
+    "macrosPer100g": {
+      "carbs": 14,
+      "fats": 0.2,
+      "protein": 0.3
+    },
+    "micros": {
+      "vitamin_a_mcg": 3,
+      "vitamin_c_mg": 4.6,
+      "vitamin_e_mg": 0.18,
+      "vitamin_k_mcg": 2.2,
+      "vitamin_b6_mg": 0.041,
+      "vitamin_b12_mcg": 0,
+      "folate_mcg": 3,
+      "calcium_mg": 6,
+      "iron_mg": 0.12,
+      "magnesium_mg": 5,
+      "zinc_mg": 0.04,
+      "potassium_mg": 107,
+      "sodium_mg": 1
+    },
+    "defaultAmount": 100,
+    "unit": {
+      "en": "grams",
+      "ar": "غرام",
+      "fr": "grammes"
+    },
+    "units": [
+      {
+        "unit": {
+          "en": "grams",
+          "ar": "غرام",
+          "fr": "grammes"
+        },
+        "gramEquivalent": 1
+      },
+      {
+        "unit": {
+          "en": "piece",
+          "ar": "قطعة",
+          "fr": "pièce"
+        },
+        "gramEquivalent": 182
+      },
+      {
+        "unit": {
+          "en": "cup",
+          "ar": "كوب",
+          "fr": "tasse"
+        },
+        "gramEquivalent": 125
+      }
+    ],
+    "tags": [
+      "vegan",
+      "low-carb"
+    ],
+    "image": "",
+    "preparation": {
+      "method": "raw",
+      "description": {
+        "en": "Apples are typically consumed raw, with or without the skin.",
+        "ar": "عادة ما يتم تناول التفاح نيئًا، مع أو بدون القشرة.",
+        "fr": "Les pommes sont généralement consommées crues, avec ou sans la peau."
+      }
+    }
+  },
+]
