@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Across Chest Shoulder Stretch",
+    "category": "calisthenics",
+    "type": "isolation",
+    "bodyParts": [
+      "back",
+      "shoulders"
+    ],
+    "primaryMuscle": "back",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "video": "",
+    "instructions": {
+      "en": "Stand tall and bring one arm across your chest. Use the opposite hand to gently pull the arm closer to your chest. Hold the stretch for 15-30 seconds and switch sides.",
+      "fr": "Tenez-vous droit et amenez un bras à travers votre poitrine. Utilisez l'autre main pour tirer doucement le bras plus près de votre poitrine. Maintenez l'étirement pendant 15-30 secondes et changez de côté.",
+      "ar": "قف بشكل مستقيم وامدد ذراعًا واحدة عبر صدرك. استخدم اليد المقابلة لسحب الذراع بلطف نحو صدرك. احتفظ بالتمدد لمدة 15-30 ثانية ثم بدّل الجوانب."
+    },
+    "tips": {
+      "en": [
+        "Keep your back straight during the stretch.",
+        "Breathe deeply to enhance the stretch."
+      ],
+      "fr": [
+        "Gardez le dos droit pendant l'étirement.",
+        "Respirez profondément pour améliorer l'étirement."
+      ],
+      "ar": [
+        "حافظ على استقامة ظهرك أثناء التمدد.",
+        "تنفس بعمق لتعزيز التمدد."
+      ]
+    },
+    "setsAndReps": {
+      "beginner": {
+        "sets": 3,
+        "reps": 10
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": 12
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": 15
+      }
+    },
+    "caloriesBurnedPerMinute": 3.0
+  },
+  {
+    "name": "Archer Pull up",
+    "category": "calisthenics",
+    "type": "compound",
+    "bodyParts": [
+      "back",
+      "biceps",
+      "shoulders"
+    ],
+    "primaryMuscle": "back",
+    "difficulty": "advanced",
+    "equipment": "minimal",
+    "video": "",
+    "instructions": {
+      "en": "Start by gripping the bar with a wide grip. Pull yourself up by leaning to one side, extending the opposite arm. Alternate sides with each repetition.",
+      "fr": "Commencez par saisir la barre avec une prise large. Tirez-vous vers le haut en vous penchant d'un côté, en étendant le bras opposé. Alternez les côtés à chaque répétition.",
+      "ar": "ابدأ بقبض البار بقبضة واسعة. ارفع نفسك عن طريق الميل إلى جانب واحد وتمديد الذراع المقابل. قم بالتبديل بين الجانبين مع كل تكرار."
+    },
+    "tips": {
+      "en": [
+        "Focus on form to avoid injury",
+        "Engage your core throughout the movement"
+      ],
+      "fr": [
+        "Concentrez-vous sur la forme pour éviter les blessures",
+        "Engagez votre tronc tout au long du mouvement"
+      ],
+      "ar": [
+        "ركز على الشكل لتجنب الإصابة",
+        "اشغل عضلات البطن طوال الحركة"
+      ]
+    },
+    "setsAndReps": {
+      "beginner": {
+        "sets": 3,
+        "reps": 3
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": 5
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": 7
+      }
+    },
+    "caloriesBurnedPerMinute": 7.0
+  },
+  {
+    "name": "Assisted Pull up",
+    "category": "gym",
+    "type": "compound",
+    "bodyParts": [
+      "back",
+      "biceps",
+      "forearms",
+      "shoulders"
+    ],
+    "primaryMuscle": "back",
+    "difficulty": "beginner",
+    "equipment": "gym machine",
+    "video": "",
+    "instructions": {
+      "en": "Stand on the platform and grip the handles. Use the machine's counterweight to help lift your body up until your chin is above the bar. Lower yourself back down with control.",
+      "fr": "Montez sur la plateforme et saisissez les poignées. Utilisez le contrepoids de la machine pour vous aider à soulever votre corps jusqu'à ce que votre menton soit au-dessus de la barre. Redescendez avec contrôle.",
+      "ar": "قف على المنصة وامسك بالمقابض. استخدم الوزن المعاكس للآلة لمساعدتك في رفع جسمك حتى يكون ذقنك فوق الشريط. انزل ببطء وتحكم."
+    },
+    "tips": {
+      "en": [
+        "Keep your core engaged.",
+        "Avoid swinging your body."
+      ],
+      "fr": [
+        "Gardez votre tronc engagé.",
+        "Évitez de balancer votre corps."
+      ],
+      "ar": [
+        "حافظ على شد عضلات البطن.",
+        "تجنب تأرجح جسمك."
+      ]
+    },
+    "setsAndReps": {
+      "beginner": {
+        "sets": 3,
+        "reps": 8
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": 10
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": 12
+      }
+    },
+    "caloriesBurnedPerMinute": 6.5
+  },
+  {
+    "name": "Back Lever",
+    "category": "calisthenics",
+    "type": "compound",
+    "bodyParts": [
+      "back",
+      "shoulders",
+      "core",
+      "arms"
+    ],
+    "primaryMuscle": "back",
+    "difficulty": "advanced",
+    "equipment": "minimal",
+    "video": "",
+    "instructions": {
+      "en": "Start by hanging from a bar with an overhand grip. Tuck your knees to your chest, then extend your legs out parallel to the ground while keeping your body straight.",
+      "fr": "Commencez par vous suspendre à une barre avec une prise en pronation. Ramenez vos genoux à votre poitrine, puis étendez vos jambes parallèles au sol tout en gardant votre corps droit.",
+      "ar": "ابدأ بالتعلق من قضيب مع قبضة علوية. قم بثني ركبتيك إلى صدرك، ثم مد ساقيك بشكل موازي للأرض مع الحفاظ على جسمك مستقيماً."
+    },
+    "tips": {
+      "en": [
+        "Engage your core for stability.",
+        "Focus on shoulder and scapular control."
+      ],
+      "fr": [
+        "Engagez votre tronc pour la stabilité.",
+        "Concentrez-vous sur le contrôle des épaules et de l'omoplate."
+      ],
+      "ar": [
+        "اشغل عضلات البطن لتحقيق الاستقرار.",
+        "ركز على التحكم في الكتفين والكتف."
+      ]
+    },
+    "setsAndReps": {
+      "beginner": {
+        "sets": 3,
+        "reps": 5
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": 10
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": 15
+      }
+    },
+    "caloriesBurnedPerMinute": 7.0
+  },
+  {
+    "name": "Back Pec Stretch",
+    "category": "calisthenics",
+    "type": "isolation",
+    "bodyParts": [
+      "back",
+      "chest"
+    ],
+    "primaryMuscle": "back",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "video": "",
+    "instructions": {
+      "en": "Stand or sit up straight. Interlock your fingers behind your back and gently lift your arms until you feel a stretch in your chest and back. Hold for 15-30 seconds.",
+      "fr": "Tenez-vous debout ou asseyez-vous bien droit. Entrelacez vos doigts derrière votre dos et soulevez doucement vos bras jusqu'à ressentir un étirement dans votre poitrine et votre dos. Maintenez pendant 15-30 secondes.",
+      "ar": "قف أو اجلس بشكل مستقيم. تشابك أصابعك خلف ظهرك وارفع ذراعيك بلطف حتى تشعر بتمدد في صدرك وظهرك. احتفظ بالوضعية لمدة 15-30 ثانية."
+    },
+    "tips": {
+      "en": [
+        "Keep your shoulders relaxed.",
+        "Breathe deeply while holding the stretch."
+      ],
+      "fr": [
+        "Gardez vos épaules détendues.",
+        "Respirez profondément pendant l'étirement."
+      ],
+      "ar": [
+        "حافظ على استرخاء كتفيك.",
+        "تنفس بعمق أثناء التمدد."
+      ]
+    },
+    "setsAndReps": {
+      "beginner": {
+        "sets": 3,
+        "reps": 10
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": 12
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": 15
+      }
+    },
+    "caloriesBurnedPerMinute": 3.0
+  },
+  {
+    "name": "Back Slaps Wrap Around Stretch",
+    "category": "calisthenics",
+    "type": "compound",
+    "bodyParts": [
+      "back",
+      "shoulders",
+      "chest"
+    ],
+    "primaryMuscle": "back",
+    "difficulty": "beginner",
+    "equipment": "none",
+    "video": "",
+    "instructions": {
+      "en": "Stand with feet shoulder-width apart. Swing your arms in front of your body and wrap them around as if hugging yourself, then swing them back out to the sides. Repeat.",
+      "fr": "Tenez-vous debout, les pieds écartés à la largeur des épaules. Balancez vos bras devant votre corps et enroulez-les comme pour vous serrer dans vos bras, puis balancez-les à nouveau sur les côtés. Répétez.",
+      "ar": "قف مع تباعد قدميك بعرض الكتفين. حرك ذراعيك أمام جسمك ولفهما كما لو كنت تعانق نفسك، ثم حركهما مرة أخرى إلى الجانبين. كرر."
+    },
+    "tips": {
+      "en": [
+        "Keep your movements controlled.",
+        "Focus on your breathing."
+      ],
+      "fr": [
+        "Gardez vos mouvements contrôlés.",
+        "Concentrez-vous sur votre respiration."
+      ],
+      "ar": [
+        "حافظ على حركاتك تحت السيطرة.",
+        "ركز على تنفسك."
+      ]
+    },
+    "setsAndReps": {
+      "beginner": {
+        "sets": 3,
+        "reps": 10
+      },
+      "intermediate": {
+        "sets": 4,
+        "reps": 15
+      },
+      "advanced": {
+        "sets": 5,
+        "reps": 20
+      }
+    },
+    "caloriesBurnedPerMinute": 4.5
+  },
+]
